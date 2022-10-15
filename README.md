@@ -32,7 +32,7 @@ N/A
 
 ## Screenshot
 
-![Alt text](/assests/images/Screen Shot 2022-10-15 at 6.07.19 PM.png?raw=true "Optional Title")
+![Alt text](/assets/images/screenshot.png?raw=true "screenshot")
 
 ## Deployed_Application
 
