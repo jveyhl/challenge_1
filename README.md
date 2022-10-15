@@ -1,8 +1,18 @@
-# Prework Study Guide Webpage
+# HTML CSS Git Challenge: Code Refactor
 
 ## Description
 
-This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
+Refactor HTML and CSS code for Horiseon Social Solution Services, Inc. such that:
+
+- Semantic HTML elements are used.
+
+- Elements follow a logical structure independent of styling and positioning.
+
+- Image elements have accessible alt attributes.
+
+- Heading attributes are in sequential order.
+
+- There is a concise, descriptive title.
 
 
 ## Table of Contents
@@ -10,6 +20,8 @@ This Prework Study Guide was created for boot camp students who were going throu
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
+- [Screenshot](#screenshot)
+- [Deployed_Application](#deployed_application)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
@@ -18,13 +30,21 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 N/A
 
+## Screenshot
+
+add screeshot here...
+
+## Deployed_Application
+
+add link here...
+
 ## Usage
 
-To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+Open Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see refactored CSS and HTML code with semantic elements.
 
 ## Credits
 
-N/A
+Starter code cloned from Xandromus Xander Rapstine.
 
 ## License
 
