@@ -32,11 +32,11 @@ N/A
 
 ## Screenshot
 
-add screeshot here...
+![Alt text](/assests/images/Screen Shot 2022-10-15 at 6.07.19 PM.png?raw=true "Optional Title")
 
 ## Deployed_Application
 
-add link here...
+https://jveyhl.github.io/challenge_1/
 
 ## Usage
 
