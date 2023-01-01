@@ -14,7 +14,6 @@ Refactor HTML and CSS code for Horiseon Social Solution Services, Inc. such that
 
 - There is a concise, descriptive title.
 
-
 ## Table of Contents
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
@@ -36,7 +35,7 @@ N/A
 
 ## Deployed_Application
 
-https://jveyhl.github.io/challenge_1/
+https://jveyhl.github.io/code_refactor/
 
 ## Usage
 
